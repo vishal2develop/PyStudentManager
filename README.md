@@ -1,2 +1,2 @@
 # PyStudentManager
-A Student Management Project i made long back
+A Student Management Project I made long back
